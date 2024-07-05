@@ -3,9 +3,9 @@
 #### Technical Skills: JavaScript, SQL, PHP, HTML, CSS
 
 ## Education
-- Ed. basica | Instituto Tecnico San Lorenzo (_2006_)								       		
-- Bachiller tecnico en informatica	| Instituto Tecnico San Lorenzo (_2009_)	 			        		
-- Ing. Informatica | Universidad San Lorenzo (_2023_)
+- Ed. basica | Instituto Tecnico San Lorenzo 2006				       		
+- Bachiller tec. informatica	| Instituto Tecnico San Lorenzo 2009	 			        		
+- Ing. Informatica | Universidad San Lorenzo 2023
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
