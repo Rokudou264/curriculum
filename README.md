@@ -1,11 +1,11 @@
-# Data Scientist
+# FullStackDev
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: JavaScript, SQL, PHP, HTML, CSS
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ed. basica | Instituto Tecnico San Lorenzo (_2006_)								       		
+- Bachiller tecnico en informatica	| Instituto Tecnico San Lorenzo (_2009_)	 			        		
+- Ing. Informatica | Universidad San Lorenzo (_2023_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
