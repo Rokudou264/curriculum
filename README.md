@@ -4,8 +4,8 @@
 
 ## Education
 
-- Ed. basica. | Instituto Tecnico San Lorenzo (_2006_)				       		
-- BTI. || Instituto Tecnico San Lorenzo (_2009_)       		
+- Ed. basica. || Instituto Tecnico San Lorenzo (_2006_)				       		
+- BTI. ||| Instituto Tecnico San Lorenzo (_2009_)       		
 - Ing. Informatica | Universidad San Lorenzo (_2023_)
 
 ## Work Experience
