@@ -1,9 +1,8 @@
 # FullStackDev
 
-#### Technical Skills: JavaScript, SQL, PHP, HTML, CSS.
-#### Correo: [Rodrigodniel264@gmail.com](mailto:Rodrigodniel264@gmail.com)
-#### [LinkedIn](https://www.linkedin.com/in/rodrigo-mereles-1b4b1a220/)
-#### [GitHub](https://github.com/Rokudou264/)
+#### - Technical Skills: JavaScript, SQL, PHP, HTML, CSS.
+#### - Correo: [Rodrigodniel264@gmail.com](mailto:Rodrigodniel264@gmail.com)
+#### - [LinkedIn](https://www.linkedin.com/in/rodrigo-mereles-1b4b1a220/) #### - [GitHub](https://github.com/Rokudou264/)
 
 ## Education
 
