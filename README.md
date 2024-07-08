@@ -3,15 +3,38 @@
 #### Technical Skills: JavaScript, SQL, PHP, HTML, CSS
 
 ## Education
+
 - Ed. basica |||| Instituto Tecnico San Lorenzo 2006				       		
 - Bachiller tec. informatica | Instituto Tecnico San Lorenzo 2009	 			        		
 - Ing. Informatica || Universidad San Lorenzo 2023
 
 ## Work Experience
 
+**Analista de sistemas @ Universidad San Lorenzo (UNISAL), San Lorenzo, (Febrero 2023-actualidad)**
+- Programador de las distintas páginas webs de la universidad.
+- PHP, HTML, CSS, JavaScript con distintos framework.
+- WEB SERVICE y API.
+- Algunos proyectos realizados:
+- Corrección de tesis/f10: automatización de las correcciones.
+- Chatbot personalizado basado en la API de openAI GPT 3.5
+- Encuestas: distintas encuesta con sus respectivos gráficos.
+- Sistema de publicidad, faQs, extensiones y capacitaciones.
+- Curso de bioseguridad Online.
+- Sistema de gestión de turnos médicos, entre otros proyectos
+
+**Analista de Sistemas @ Freelancer, San Lorenzo, (_2020 - 2023_)**
+- SQL, PHP, HTML, CSS, JavaScript, WORDPRESS.
+- Desarrollador autónomo.
+
+**Administrador, Analista de Sistemas y RRHH @ BRAZIL FOODS, CDE, (_2017 - 2020_)**
+- Analista de sistemas, principalmente SQL, PHP y HTML
+- Administración de recursos financieros y humanos
+- Reparación y mantenimiento de equipos informáticos.
+- Inventario
+
 **Técnico en computadoras @ Autónomo, San Lorenzo, (_2011 - 2017_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Atención a clientes.
+- Reparación y mantenimiento de equipos informáticos.
 
 **Pasante TI: Tecnología de la Información @ CONATEL, Asunción, (_2009 - 2009_)**
 - Administración de sistemas
@@ -22,20 +45,8 @@
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
-
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
