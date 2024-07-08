@@ -44,6 +44,7 @@
 - Técnico de reparación de equipos informáticos.
 
 ## Projects personales
+### [ChatBot GPT-3.5](https://github.com/Rokudou264/GPT-3.5)
 ### [Social Network](https://github.com/Rokudou264/vivo_redsocial)
 
 ## Cursos/autodidactas.
