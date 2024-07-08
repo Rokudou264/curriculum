@@ -120,4 +120,4 @@
 - [Lengua de señas y su legislación](https://drive.google.com/file/d/1e5_3f_KL6zsLFyAmlIVM18SK4J9tSbyt/view?usp=sharing)
 
 ## source
-- [Curruculum](https://www.Rokudou264.github.io/portfolio)
+- [Curruculum](https://www.Rokudou264.github.io/curriculum)
