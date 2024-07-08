@@ -93,10 +93,10 @@
 - Bases de datos en general, MySQL, MariaDB, teoría y práctica, lenguaje SQL completo, diagrama EER, AWS RDS, cloud y triggers.
 
 **Curso avanzado de HTML Y CSS. (Udemy)**
-Este curso te enseña a construir sitios web desde cero aprendiendo el lenguaje de marcado HTML5 y el lenguaje de estilos CSS.
+- Este curso te enseña a construir sitios web desde cero aprendiendo el lenguaje de marcado HTML5 y el lenguaje de estilos CSS.
 
 **WordPress. (Udemy)**
-Creación y gestión de sitios basados en WordPress utilizando WooCommerce.
+- Creación y gestión de sitios basados en WordPress utilizando WooCommerce.
 
 **Capacitaciones (Universidad San Lorenzo)**
 - [Atribuciones y responsabilidades de la SEPRELAD](https://drive.google.com/file/d/1gO5myGzPUxHLNxF4vJtkOfYNRHbEf5Rs/view?usp=sharing)
