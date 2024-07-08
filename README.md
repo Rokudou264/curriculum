@@ -1,17 +1,14 @@
 # FullStackDev
-
 #### - Technical Skills: JavaScript, SQL, PHP, HTML, CSS.
 #### - Correo: [Rodrigodniel264@gmail.com](mailto:Rodrigodniel264@gmail.com)
-#### - [LinkedIn](https://www.linkedin.com/in/rodrigo-mereles-1b4b1a220/) #### - [GitHub](https://github.com/Rokudou264/)
+#### - [LinkedIn](https://www.linkedin.com/in/rodrigo-mereles-1b4b1a220/) - [GitHub](https://github.com/Rokudou264/)
 
 ## Education
-
 - Ed. basica. || Instituto Tecnico San Lorenzo (_2006_)				       		
 - BTI. ||| Instituto Tecnico San Lorenzo (_2009_)       		
 - Ing. Informatica | Universidad San Lorenzo (_2023_)
 
 ## Work Experience
-
 **Analista de sistemas @ Universidad San Lorenzo (UNISAL), San Lorenzo, (Febrero 2023-actualidad)**
 - Programador de las distintas páginas webs de la universidad.
 - PHP, HTML, CSS, JavaScript con distintos framework.
@@ -23,21 +20,17 @@
 - Sistema de publicidad, faQs, extensiones y capacitaciones.
 - Curso de bioseguridad Online.
 - Sistema de gestión de turnos médicos, entre otros proyectos
-
 **Analista de Sistemas @ Freelancer, San Lorenzo, (_2020 - 2023_)**
 - SQL, PHP, HTML, CSS, JavaScript, WORDPRESS.
 - Desarrollador autónomo.
-
 **Administrador, Analista de Sistemas y RRHH @ BRAZIL FOODS, CDE, (_2017 - 2020_)**
 - Analista de sistemas, principalmente SQL, PHP y HTML
 - Administración de recursos financieros y humanos
 - Reparación y mantenimiento de equipos informáticos.
 - Inventario
-
 **Técnico en computadoras @ Autónomo, San Lorenzo, (_2011 - 2017_)**
 - Atención a clientes.
 - Reparación y mantenimiento de equipos informáticos.
-
 **Pasante TI @ CONATEL, Asunción, (_2009 - 2009_)**
 - Administración de sistemas
 - Seguridad informática
