@@ -5,9 +5,9 @@
 #### - [GitHub](https://github.com/Rokudou264/)
 
 ## Education
-- Basica,                  Instituto Tecnico San Lorenzo (_2006_)				       		
-- Bachiller TI.            Instituto Tecnico San Lorenzo (_2009_)       		
-- Ingenieria Informatica   Universidad San Lorenzo (_2023_)
+- Basica, - Instituto Tecnico San Lorenzo (_2006_)				       		
+- Bachiller TI. - Instituto Tecnico San Lorenzo (_2009_)       		
+- Ingenieria Informatica - Universidad San Lorenzo (_2023_)
 
 ## Idiomas.
 #### - Ingles - A2
