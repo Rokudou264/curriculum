@@ -1,6 +1,9 @@
 # FullStackDev
 
-#### Technical Skills: JavaScript, SQL, PHP, HTML, CSS
+#### Technical Skills: JavaScript, SQL, PHP, HTML, CSS.
+#### Technical Skills: rodrigodniel264@gmail.com
+#### [LinkedIn](https://www.linkedin.com/in/rodrigo-mereles-1b4b1a220/)
+#### [GitHub](https://github.com/Rokudou264/)
 
 ## Education
 
@@ -41,22 +44,12 @@
 - Seguridad informática
 - Técnico de reparación de equipos informáticos.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Projects personales
+### Vivo
+[Social Network]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Rokudou264/vivo_redsocial))
 
 ## Publications
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 
-- [Data Science Blog](https://medium.com/@shawhin)
-
-- # portfolio
-Rokudou264.github.io/portfolio
-
 - # source
-https://github.com/ShawhinT/example-portfolio
+- [Curruculum]([https://www.Rokudou264.github.io/portfolio))
