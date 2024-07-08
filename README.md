@@ -8,6 +8,11 @@
 - BTI. ||| Instituto Tecnico San Lorenzo (_2009_)       		
 - Ing. Informatica | Universidad San Lorenzo (_2023_)
 
+## Idiomas.
+#### - Ingles - A2
+#### - Español - Nativo
+#### - Guaraní - Nativo
+
 ## Work Experience
 **Analista de sistemas @ Universidad San Lorenzo (UNISAL), San Lorenzo, (Febrero 2023-actualidad)**
 - Programador de las distintas páginas webs de la universidad.
@@ -37,11 +42,45 @@
 - Técnico de reparación de equipos informáticos.
 
 ## Projects personales
-### Vivo
-[Social Network]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Rokudou264/vivo_redsocial))
+### Vivo [Social Network]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Rokudou264/vivo_redsocial))
 
-## Publications
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+## Cursos/autodidactas.
+
+Operador Avanzado. 6 meses (ICI, San Lorenzo)
+Curso enfocado en aprender facultades avanzadas del ordenador y aprendizaje del paquete office como por ej. word, excel.
+Reparación de computadoras. 
+6 meses (ICI, San Lorenzo)
+Aquí aprendí a reparar y hacer mantenimiento al software y hardware de las a computadoras e impresoras.
+Curso particular ingles. 
+12 meses (2 libros Cambridge)
+Libros de ingles de la academia Cambridge enfocado en el aprendizaje IELTS.
+Este curso te enseña a construir sitios web desde cero aprendiendo el lenguaje de marcado HTML5 y el lenguaje de estilos CSS.
+Curso backend enfocado a crear sistemas para puntos de venta con manejo de inventarios y facturación utilizando PHP 8.
+Curso avanzado de HTML Y CSS. (Udemy)
+Curso de PHP 8. (Udemy)
+SQL curso completo de Bases de Datos. (Udemy)
+Bases de datos en general, MySQL, MariaDB, teoría y práctica, lenguaje SQL completo, diagrama EER, AWS RDS, cloud y triggers.
+Curso JavaScript. (Udemy)
+Aprender JavaScript y su sintaxis
+Formas modernas de trabajar con JavaScript
+Webpack e importaciones de módulos
+SQL curso completo de Bases de Datos. (Udemy)
+Bases de datos en general, MySQL, MariaDB, teoría y práctica, lenguaje SQL completo, diagrama EER, AWS RDS, cloud y triggers.
+Curso avanzado de HTML Y CSS. (Udemy)
+Este curso te enseña a construir sitios web desde cero aprendiendo el lenguaje de marcado HTML5 y el lenguaje de estilos CSS.
+WordPress. (Udemy)
+Creación y gestión de sitios basados en WordPress utilizando WooCommerce.
+Certificaciones - (Microsoft y LinkedIn)
+Fundamentos profesionales del desarrollo de software
+Fundamentos de la programación: Más allá de lo básico
+Introducción a las habilidades profesionales en el desarrollo de software
+Fundamentos esenciales de la programación
+Fundamentos de la carrera de administración de sistemas - (Pendiente examen de certificación)
+Capacitaciones (Universidad San Lorenzo)
+Atribuciones y responsabilidades de la SEPRELAD
+Las herramientas del sistema MARANGATU
+Nueva ley de suministros y contrataciones públicas
+Gestión y evaluación del desempeño laboral
 
 - # source
 - [Curruculum]([https://www.Rokudou264.github.io/portfolio))
