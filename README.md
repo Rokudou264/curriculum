@@ -46,7 +46,7 @@
 - Técnico de reparación de equipos informáticos.
 
 ## Projects personales
-### Vivo [Social Network]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/Rokudou264/vivo_redsocial))
+### Vivo [Social Network](https://github.com/Rokudou264/vivo_redsocial)
 
 ## Cursos/autodidactas.
 
