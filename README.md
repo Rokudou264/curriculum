@@ -102,7 +102,7 @@
 - [Gestión y evaluación del desempeño laboral](https://drive.google.com/file/d/14EkNMv721uX4ICmcnhQirMeEV3K-klP_/view?usp=sharing)
 - [Sistema MARANGATU](https://drive.google.com/file/d/1olt5LcULZ-CNaSBk4wyLuHNbbcQMrarL/view?usp=sharing)
 - [Ley de suministros y contrataciones públicas](https://drive.google.com/file/d/1YwiBMc6iPhqqteFXoA3bDuKP7xiD3EJU/view?usp=sharing)
-- [Congreso internacional innovación para la nueva era, retos y oportunidades](https://drive.google.com/file/d/1uCc4bTKKBYixASU0AC5eYm-eGS10iSFI/view?usp=sharing)
+- [Congreso internacional innovación, retos y oportunidades](https://drive.google.com/file/d/1uCc4bTKKBYixASU0AC5eYm-eGS10iSFI/view?usp=sharing)
 - [La evolución de la tecnología](https://drive.google.com/file/d/1bEDsYX4Ov6spvSpdSr-okobbtyN7j0um/view?usp=sharing)
 - [Foro de egresados](https://drive.google.com/file/d/1rjJtJFh9vgfyhSeH1AKh922Hyo1gkLDB/view?usp=sharing)
 - [Justicia restauradora y sus tres pilares](https://drive.google.com/file/d/1Cwjf2SyhS8ypsA2DOKP8jDHhY8Y1YgRu/view?usp=sharing)
