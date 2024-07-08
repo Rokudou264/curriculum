@@ -14,6 +14,7 @@
 #### - Guaraní - Nativo
 
 ## Work Experience
+
 **Analista de sistemas @ Universidad San Lorenzo (UNISAL), San Lorenzo, (Febrero 2023-actualidad)**
 - Programador de las distintas páginas webs de la universidad.
 - PHP, HTML, CSS, JavaScript con distintos framework.
@@ -25,6 +26,7 @@
   - Sistema de publicidad, faQs, extensiones y capacitaciones.
   - Curso de bioseguridad Online.
   - Sistema de gestión de turnos médicos, entre otros proyectos.
+    
 **Analista de Sistemas @ Freelancer, San Lorenzo, (_2020 - 2023_)**
 - SQL, PHP, HTML, CSS, JavaScript, WORDPRESS.
 - Desarrollador autónomo.
@@ -33,9 +35,11 @@
 - Administración de recursos financieros y humanos
 - Reparación y mantenimiento de equipos informáticos.
 - Inventario.
+  
 **Técnico en computadoras @ Autónomo, San Lorenzo, (_2011 - 2017_)**
 - Atención a clientes.
 - Reparación y mantenimiento de equipos informáticos.
+  
 **Pasante TI @ CONATEL, Asunción, (_2009 - 2009_)**
 - Administración de sistemas
 - Seguridad informática
