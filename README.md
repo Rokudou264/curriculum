@@ -36,7 +36,7 @@
 - Atención a clientes.
 - Reparación y mantenimiento de equipos informáticos.
 
-**Pasante TI: Tecnología de la Información @ CONATEL, Asunción, (_2009 - 2009_)**
+**Pasante TI @ CONATEL, Asunción, (_2009 - 2009_)**
 - Administración de sistemas
 - Seguridad informática
 - Técnico de reparación de equipos informáticos.
