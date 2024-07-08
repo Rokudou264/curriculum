@@ -48,9 +48,6 @@
 ### [Social Network](https://github.com/Rokudou264/vivo_redsocial)
 
 ## Cursos/autodidactas.
-
-**Curso particular ingles. 12 meses (2 libros Cambridge)**
-- Libros de ingles de la academia Cambridge enfocado en el aprendizaje IELTS.
   
 **Certificaciones - (Microsoft y LinkedIn)**
 - [Fundamentos profesionales del desarrollo de software](https://www.linkedin.com/learning/certificates/45fab69ed13d385e780e71acb2ad058f92c762ac8d26d75e93add6a559f1688b)
@@ -71,6 +68,9 @@
 - [Terminología de ciberseguridad](https://www.linkedin.com/learning/certificates/750bc29684f3d86b6ece519f5cb3d709f8da44f0a98766f25472223dc84e480d)
 - Fundamentos de la carrera de administración de sistemas - (Pendiente examen de certificación)
 - Fundamentos profesionales de IA generativa, por Microsoft y LinkedIn - (Cursando)
+
+**Curso particular ingles. 12 meses (2 libros Cambridge)**
+- Libros de ingles de la academia Cambridge enfocado en el aprendizaje IELTS.
 
 **Operador Avanzado. 6 meses (ICI, San Lorenzo)**
 - Curso enfocado en aprender facultades avanzadas del ordenador y aprendizaje del paquete office como por ej. word, excel.
