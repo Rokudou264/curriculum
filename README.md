@@ -70,10 +70,26 @@
 - Fundamentos profesionales de IA generativa, por Microsoft y LinkedIn - (Cursando)
 
 **Capacitaciones (Universidad San Lorenzo)**
-- Atribuciones y responsabilidades de la SEPRELAD
-- Las herramientas del sistema MARANGATU
-- Nueva ley de suministros y contrataciones públicas
-- Gestión y evaluación del desempeño laboral
+- [Atribuciones y responsabilidades de la SEPRELAD](https://drive.google.com/file/d/1gO5myGzPUxHLNxF4vJtkOfYNRHbEf5Rs/view?usp=sharing)
+- [Gestión y evaluación del desempeño laboral](https://drive.google.com/file/d/14EkNMv721uX4ICmcnhQirMeEV3K-klP_/view?usp=sharing)
+- [Sistema MARANGATU](https://drive.google.com/file/d/1olt5LcULZ-CNaSBk4wyLuHNbbcQMrarL/view?usp=sharing)
+- [Ley de suministros y contrataciones públicas](https://drive.google.com/file/d/1YwiBMc6iPhqqteFXoA3bDuKP7xiD3EJU/view?usp=sharing)
+- [Congreso internacional innovación para la nueva era, retos y oportunidades](https://drive.google.com/file/d/1uCc4bTKKBYixASU0AC5eYm-eGS10iSFI/view?usp=sharing)
+- [La evolución de la tecnología](https://drive.google.com/file/d/1bEDsYX4Ov6spvSpdSr-okobbtyN7j0um/view?usp=sharing)
+- [Foro de egresados](https://drive.google.com/file/d/1rjJtJFh9vgfyhSeH1AKh922Hyo1gkLDB/view?usp=sharing)
+- [Justicia restauradora y sus tres pilares](https://drive.google.com/file/d/1Cwjf2SyhS8ypsA2DOKP8jDHhY8Y1YgRu/view?usp=sharing)
+- [Gestión y evaluación del desempeño laboral](https://drive.google.com/file/d/1EUd2daByagIYiGlH46yC08QXz_03au8s/view?usp=sharing)
+- [Congreso inclusión culturas y lenguas](https://drive.google.com/file/d/1nHy6DZSJakGhhzTfiKGMcWJGCMWoELnN/view?usp=sharing)
+- [Legua de señas, un reto para la inclusion](https://drive.google.com/file/d/1BdxkVgsxEd-rLEQBKKm1DwZbX9DeA-GA/view?usp=sharing)
+- [Privacidad y redes sociales](https://drive.google.com/file/d/15Qtm701aOEWDFTkUsPADuIMj6I-qwg0m/view?usp=sharing)
+- [Informática y nuevas tecnologías](https://drive.google.com/file/d/1c7kOgXaIV_U3BpxhMA215eACDDFbjqGn/view?usp=sharing)
+- [Foro de estudiantes](https://drive.google.com/file/d/1pvy5iJdyKVn92zIbqH36c0QFi3cbH-96/view?usp=sharing)
+- [Formas de gobierno](https://drive.google.com/file/d/1pA90CZzPPpFLEqGmsn5sCfVyumyeylLi/view?usp=sharing)
+- [Medicina alternativa y artificial](https://drive.google.com/file/d/1EDYd2lgBX4_4SZUXlPMmcVBK0eV86_AO/view?usp=sharing)
+- [Lengua de señas - aula virtual](https://drive.google.com/file/d/1uUdgCrYhQZrdeK2_H4J8j0rbTo_N1EAM/view?usp=sharing)
+- [Lengua de señas - virtual](https://drive.google.com/file/d/1xGDpGiwzARHwQFdRaYSc12PG1D78WEao/view?usp=sharing)
+- [Lengua de señas y su legislación](https://drive.google.com/file/d/1e5_3f_KL6zsLFyAmlIVM18SK4J9tSbyt/view?usp=sharing)
+- [Bienestar y salud mental](https://drive.google.com/file/d/1P9evYHyNE6sfcTQGPIbdJNO5Pcibp81n/view?usp=sharing)
 
 **Operador Avanzado. 6 meses (ICI, San Lorenzo)**
 - Curso enfocado en aprender facultades avanzadas del ordenador y aprendizaje del paquete office como por ej. word, excel.
@@ -86,7 +102,6 @@
   
 **Curso particular ingles. 12 meses (2 libros Cambridge)**
 - Libros de ingles de la academia Cambridge enfocado en el aprendizaje IELTS.
-
 
 - # source
 - [Curruculum]([https://www.Rokudou264.github.io/portfolio))
